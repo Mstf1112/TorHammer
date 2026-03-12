@@ -1,0 +1,5 @@
+requests[socks]==2.31.0
+stem==1.8.2
+colorama==0.4.6
+tqdm==4.66.1
+PySocks==1.7.1
