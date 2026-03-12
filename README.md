@@ -30,6 +30,7 @@ pip install -r requirements.txt
 ## Usage/Examples
 
 ```bash
+python3 TorHammer.py
 Enter target URL (ex: https://site.com/login): test.com
 Credentials file [credentials.txt (USERNAME:PASS)]: test.txt
 ```
@@ -38,5 +39,5 @@ Credentials file [credentials.txt (USERNAME:PASS)]: test.txt
 
 ## Screenshots
 
-![App Screenshot](https://dummyimage.com/468x300?text=App+Screenshot+Here)
+![App Screenshot](https://github.com/Mstf1112/TorHammer/blob/3bbbb3beb152cc81f2f19df6a20d67e1f2959b05/Resim1.png)
 
